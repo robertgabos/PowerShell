@@ -1,6 +1,6 @@
 
 # Enable Nested Virtualization for a Virtual Machine
 
-Set-VMProcessor -VMName <VMname> -ExposeVirtualizationExtensions $true
+Set-VMProcessor -VMName <"VirtualMachineName"> -ExposeVirtualizationExtensions $true
   
   
